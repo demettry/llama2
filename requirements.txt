@@ -1,2 +1,9 @@
 streamlit
 replicate
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
+sentence-transformers
+ollama
